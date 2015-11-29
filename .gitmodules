@@ -1,0 +1,6 @@
+[submodule "kiron"]
+	path = kiron
+	url = git@github.com:Inflatablewoman/kiron.git
+[submodule "kiron-application-management-frontend"]
+	path = kiron-application-management-frontend
+	url = git@github.com:Inflatablewoman/kiron-application-management-frontend.git
